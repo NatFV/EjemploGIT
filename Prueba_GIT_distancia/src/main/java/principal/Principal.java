@@ -15,6 +15,7 @@ public class Principal {
 		System.out.println("Sigue trabajando en la rama master");
 
 		System.out.println("Versión editada por un becario competente");
+		System.out.println("Trabajo en equipo");
 
 	}
 
